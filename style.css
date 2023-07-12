@@ -1,0 +1,25 @@
+body {
+    background-color:#DDE6ED;
+    color: black;
+    font-family: 'Bacasime Antique', serif;
+}
+
+h1{
+    color:#27374D;
+}
+
+h2{
+    color:#526D82;
+}
+
+h3{
+    color: #526D82;
+}
+
+.imagen1{
+    width: 500px;
+}
+
+img{
+    width: 500px;
+}
